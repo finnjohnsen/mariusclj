@@ -1,0 +1,1 @@
+{"version":3,"file":"\/home\/finn\/src\/mariusclj\/resources\/public\/cljs\/out\/mariusclj\/main.js","sources":["main.cljs?rel=1580245977336"],"lineCount":10,"mappings":";AAAA;;;AAGA,qBAAA,rBAAMA;AAAN,AAAA,0FAAA,mDAAA;;AAIA,8BAAA,9BAACC,iHAAUD,2BACD,wBAAA,xBAAiBE","names":["mariusclj.main\/app","reagent.core\/render","js\/document"]}
